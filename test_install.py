@@ -1,9 +1,4 @@
-import numpy
-import numba
-import scipy
-import pytest
-import dask
-import matplotlib
+import numpy, numba, scipy, pytest, dask, matplotlib
 
 print("Numpy", numpy.__version__)
 print("Numba", numba.__version__)
